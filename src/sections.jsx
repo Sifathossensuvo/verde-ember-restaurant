@@ -277,7 +277,7 @@ export function Reserve() {
   )
 }
 
-/* 14 — FAQ */
+/* 14 — FAQ  section*/
 export function Faq() {
   const [o, setO] = useState(0)
   return (
@@ -295,7 +295,7 @@ export function Faq() {
   )
 }
 
-/* 15 — Visit + footer */
+/* 15 — Visit + footer section*/
 export function Visit() {
   return (
     <footer className="visit" id="visit">
