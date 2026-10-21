@@ -99,6 +99,7 @@ export function Stats() {
           <span>{s.l}</span>
         </Reveal>
       ))}
+      {/* dsafsd */}
     </section>
   )
 }
@@ -124,7 +125,8 @@ export function Signature() {
   )
 }
 
-/* 7 — Menu */
+
+/* 7 — Menu section */
 export function Menu() {
   const tabs = Object.keys(menu)
   const [tab, setTab] = useState(tabs[0])
