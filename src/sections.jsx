@@ -150,7 +150,7 @@ export function Menu() {
   )
 }
 
-/* 8 — Process */
+/* 8 — Process section*/
 export function Process() {
   return (
     <section className="sec process">
@@ -166,7 +166,7 @@ export function Process() {
   )
 }
 
-/* 9 — Chef */
+/* 9 — Chef section*/
 export function Chef() {
   return (
     <section className="sec chef" id="chef">
