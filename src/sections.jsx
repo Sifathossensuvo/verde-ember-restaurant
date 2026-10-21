@@ -4,6 +4,8 @@ import { IMG, nav, marquee, stats, signature, menu, process, testimonials, faqs 
 
 const taka = (n) => `৳${n.toLocaleString('en-IN')}`
 
+
+
 /* 1 — Navbar */
 export function Navbar() {
   const y = useScrollY()
@@ -26,7 +28,6 @@ export function Navbar() {
     </header>
   )
 }
-
 
 
 /* 2 — Hero */
